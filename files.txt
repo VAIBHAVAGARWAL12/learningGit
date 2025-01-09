@@ -1,4 +1,3 @@
-hello this is a file 
-i am going to write some bullshit in here
-dont mind me just learning git 
-abraKa dabra boom
+hello this is a text file 
+i dont really have anything to write,
+this a part of learning git and github 
